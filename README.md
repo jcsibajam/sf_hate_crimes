@@ -14,7 +14,7 @@ San Francisco is known for its diversity and inclusivity, but hate crimes still 
 
 ### Why This Study Matters
 
-**Identifying the Most Vulnerable:** Understanding which groups are most frequently targeted can provide valuable insight into the risks they face and highlight areas where more protection and support are needed.
+**Identifying the Most Vulnerable:** Understanding which groups are most frequently targeted can provide valuable insight into the risks they face and highlight areas where more protection and support are needed.\
 **Recognizing Patterns Over Time:** Looking at data from the past few years can reveal trends in hate crimes, offering a clearer picture of when and where these incidents are most likely to happen.
 
 By exploring these patterns, this research contributes to a deeper understanding of hate crimes in San Francisco, helping to inform discussions about safety and social justice.
