@@ -58,7 +58,28 @@ Based on this research, the highest-risk group for hate crimes in San Francisco 
 
 ## Next Steps
 
-Next Steps will be here
+While this study provides valuable insights into how race, sexual orientation, and location intersect to determine who is most vulnerable to hate crimes in San Francisco, there are several ways to build on this research to gain an even deeper understanding. Expanding the scope of analysis, incorporating additional data sources, and exploring new angles could help answer remaining questions and strengthen findings.
+
+**Ongoing monitoring of hate crime trends**
+
+This analysis covers hate crimes from 2020 to 2024, but patterns of violence can shift over time due to changes in social attitudes, political events, or policy measures. A long-term study could reveal whether certain years consistently see spikes in hate crimes or if certain communities experience worsening conditions over time. Continuous monitoring would help determine if 2021 was an anomaly or part of a larger trend, and whether efforts to address hate crimes are making a measurable impact.
+
+**Investigating underreporting of hate crimes**
+
+This research found that hate crimes against LGBTQ+ individuals, especially lesbians, were reported at much lower rates than those against other groups. However, this does not necessarily mean fewer incidents occur, it could indicate that many crimes go unreported. A deeper investigation into barriers to reporting, such as lack of police trust or social stigma, would provide a clearer picture of the true scope of the problem. 
+
+**Exploring the connection between social/political events and hate crime surges**
+
+The 2021 peak in hate crimes suggests that external social or political factors may have influenced the rise in violence. Future research could examine media coverage, political rhetoric, policy changes, protests, or national/international events to see how they correlate with increases in hate crimes. 
+
+**Comparing hate crime locations to general assault hotspots**
+
+By comparing the most dangerous intersections for general assaults to hate crime locations, this research could determine whether hate crimes occur in places that already experience high levels of violence or if they are happening in different locations, suggesting targeted attacks. This step would help answer whether hate crimes are simply a reflection of existing crime trends or if they indicate deliberate targeting of vulnerable communities in specific spaces.
+
+**Final thoughts**
+
+Expanding this research will provide a clearer, more detailed picture of hate crime risks in San Francisco. By tracking trends over time, mapping high-risk areas, investigating underreporting, and analyzing the impact of political events, future studies can move beyond identifying patterns to understanding the deeper causes behind hate crimes and their long-term consequences.
+
 
 ## References
 
