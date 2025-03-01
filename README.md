@@ -42,7 +42,19 @@ Literature Review will be here
   
 ## Conclusion
 
-Conclusion will be here
+This research explored hate crime trends in San Francisco from 2020 to 2024, focusing on the intersection of race, sexual orientation, and location to determine who is most vulnerable to these crimes. By analyzing open data from the San Francisco Police Department, I identified patterns in victim demographics, crime locations, and yearly fluctuations in hate crime incidents.
+
+The findings highlight 2021 as the peak year for hate crimes, with a total of 96 victims, significantly higher than any other year. This increase was seen across both race-based and sexual orientation-based hate crimes, suggesting that external social or political factors may have contributed to heightened tensions during that period.
+
+Race-based hate crimes were the most commonly reported type each year, with Asian individuals being the most frequent targets. Black and Hispanic communities also faced consistent levels of hate crimes, but the spike in Anti-Asian crimes stood out as the most significant trend.
+
+Hate crimes targeting LGBTQ+ individuals occurred every year, reinforcing that San Francisco, despite its reputation as an inclusive city, is not free from homophobia. Gay men were the most at-risk group, experiencing 17 reported incidents in 2021 and 13 in 2024. Anti-Lesbian crimes appeared in the data less frequently, but this does not necessarily mean they occur less, it may indicate underreporting.
+
+Location plays a key role in determining risk levels. The data revealed that public streets and transit areas are the most common locations for both Anti-Asian and Anti-Gay (Male) hate crimes. This suggests that individuals in these groups are most vulnerable when navigating public spaces, where they are more exposed to strangers.
+
+Based on assault reports data, I identified 24th St & Osage Aly as the most dangerous intersection for assaults, along with several high-crime areas such as Mission Street, Market Street, and the Tenderloin. If hate crimes are concentrated in these same high-assault areas, it could suggest that certain communities are at risk simply because they live or travel through areas where violence is more common. However, if hate crimes occur in different locations, it would indicate that these crimes are not just random acts of violence but targeted attacks against specific groups in certain spaces.
+
+Based on this research, the highest-risk group for hate crimes in San Francisco is Asian individuals and gay men, particularly in public spaces like streets, transit hubs, and nightlife areas. The intersection of identity (race, sexual orientation) and location determines who is most at risk and where they are most likely to experience hate crimes.
 
 ## Next Steps
 
