@@ -6,6 +6,7 @@
 - [Literature Review](#literature-review)
 - [Notebooks](#notebooks)
   - [Analysis 1: Investigated Hate Crimes](#analysis-1-investigated-hate-crimes)
+  - [Analysis 1: Investigated Hate Crimes](https://github.com/jcsibajam/sf_hate_crimes/blob/5451d6f6ea76fd95694f8c92c45c524ef4d67610/Analysis%201%20-%20Police%20Department%20Investigated%20Hate%20Crimes%20Dataset.ipynb)
   - [Analysis 2: Incident Reports](#analysis-2-incident-reports)
 - [Conclusion](#conclusion)
 - [Next Steps](#next-steps)
