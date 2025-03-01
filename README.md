@@ -34,10 +34,12 @@ Literature Review will be here
 
 ## Notebooks
 
-### Analysis 1 Investigated Hate Crimes
-
-### Analysis 2 Incident Reports
-
+  - [Analysis 1: SF Investigated Hate Crimes Dataset Analysis](https://github.com/jcsibajam/sf_hate_crimes/blob/5451d6f6ea76fd95694f8c92c45c524ef4d67610/Analysis%201%20-%20Police%20Department%20Investigated%20Hate%20Crimes%20Dataset.ipynb)
+    Brief Description on what is included in Analysis 1
+    
+  - [Analysis 2: SF Incident Reports Dataset Analysis](https://github.com/jcsibajam/sf_hate_crimes/blob/5451d6f6ea76fd95694f8c92c45c524ef4d67610/Analysis%202%20-%20Map%20of%20Police%20Department%20Incident%20Reports%20Dataset.ipynb)
+    Brief Description on what is included in Analysis 1
+  
 ## Conclusion
 
 Conclusion will be here
