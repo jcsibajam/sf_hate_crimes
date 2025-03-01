@@ -30,7 +30,11 @@ By exploring these patterns, this research contributes to a deeper understanding
 
 ## Literature Review
 
-Literature Review will be here
+**WORK IN PROGRESS SECTION**
+
+This section is still being developed. It will explore the definition and history of hate crimes, as well as the communities most affected by them, using references from the "References" section. Additionally, it will incorporate San Francisco Census Data to compare the city's demographic makeup with the groups most targeted by hate crimes. This comparison will help determine whether the most affected communities reflect the overall population distribution or if certain groups are disproportionately impacted.
+
+The section will also include news reports from January 2022, which provide important context about the spike in Anti-Asian hate crimes in 2021. These sources will help explain the social and political factors that may have contributed to the surge in reported incidents, setting the stage for further research.
 
 ## Notebooks
 
@@ -85,4 +89,29 @@ Expanding this research will provide a clearer, more detailed picture of hate cr
 
 ## References
 
-References will be here
+**Data Sources**
+
+DataSF - Open Data Portal. Police Department investigated hate crimes. https://data.sfgov.org/Public-Safety/Police-Department-Investigated-Hate-Crimes/huqr-9p9x/about_data
+
+DataSF - Open Data Portal. Map of Police Department incident reports: 2018 to present. https://data.sfgov.org/Public-Safety/Map-of-Police-Department-Incident-Reports-2018-to-/jq29-s5wp
+
+**Government Sources**
+
+U.S. Department of Justice. (n.d.). Learn about hate crimes. https://www.justice.gov/hatecrimes/learn-about-hate-crimes
+
+United States Census Bureau. (n.d.). San Francisco County, California. https://data.census.gov/profile/San_Francisco_County,_California?g=050XX00US06075#race-and-ethnicity
+
+**Academic Sources**
+
+Jendryke, M., & McClure, S. C. (2019). Mapping crime – Hate crimes and hate groups in the USA: A spatial analysis with gridded data. Applied Geography, 111, 102072. https://doi.org/10.1016/j.apgeog.2019.102072
+
+Patel, Tina G., et al. “Hate Crime.” Shades of Deviance, 2nd ed., vol. 1, Routledge, 2023, pp. 197–200, https://doi.org/10.4324/9781003138198-51.
+
+Malcom, Zachary T., et al. “LGBTQA+ Hate Crime Victimization.” Queer Victimology, 1st ed., Routledge, 2024, pp. 26–36, https://doi.org/10.4324/9781003400981-4.
+
+**News Articles**
+
+Chan, S., & Martin, A. (2022, January 27). Anti-Asian hate crimes increased 567% in San Francisco as lawsuit accuses DA of not doing enough. CNN. https://www.cnn.com/2022/01/27/us/anti-asian-hate-crimes-san-francisco-lawsuit/index.htm
+
+Anguiano, D. (2022, January 26). SF police data shows 567% increase in reports of hate crimes against Asian Americans. The Guardian. https://www.theguardian.com/us-news/2022/jan/26/san-francisco-increase-hate-crime-anti-asian-aapi
+
