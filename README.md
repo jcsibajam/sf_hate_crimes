@@ -1,5 +1,10 @@
 # Mapping Vulnerability: Understanding Hate Crime Trends in San Francisco (2020-2024)
 
+## **Table of Contents**
+- [Introduction](#introduction)
+- [Justification of the Research](#justification-of-the-research)
+  - [Why This Study Matters](#why-this-study-matters)
+
 ## Introduction
 
 Hate crimes are a serious issue that impacts marginalized communities across the United States. These crimes not only harm individual victims but also send messages of fear and intimidation to entire groups. This project analyzes hate crimes reported in San Francisco from 2020 to 2024 using open San Francisco Data datasets. These datasets, maintained by city and county departments, aim to increase transparency and encourage data-driven solutions to social issues.
