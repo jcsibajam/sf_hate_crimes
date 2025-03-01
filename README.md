@@ -3,7 +3,13 @@
 ## **Table of Contents**
 - [Introduction](#introduction)
 - [Justification of the Research](#justification-of-the-research)
-  - [Why This Study Matters](#why-this-study-matters)
+- [Literature Review](#literature-review)
+- [Notebooks](#notebooks)
+  - [Analysis 1: Investigated Hate Crimes](#analysis-1-investigated-hate-crimes)
+  - [Analysis 2: Incident Reports](#analysis-2-incident-reports)
+- [Conclusion](#conclusion)
+- [Next Steps](#next-steps)
+- [References](#references)
 
 ## Introduction
 
@@ -15,11 +21,31 @@ This project brings together both personal and academic motivations. As a Latino
 
 ## Justification of the research
 
-San Francisco is known for its diversity and inclusivity, but hate crimes still occur, affecting the safety and well-being of many communities. This project is important because it helps uncover who is most at risk and how these crimes have changed over time.
-
-### Why This Study Matters
+San Francisco is known for its diversity and inclusivity, but hate crimes still occur, affecting the safety and well-being of many communities. This project is important because it helps uncover who is most at risk and how these crimes have changed over time by:
 
 **Identifying the Most Vulnerable:** Understanding which groups are most frequently targeted can provide valuable insight into the risks they face and highlight areas where more protection and support are needed.\
 **Recognizing Patterns Over Time:** Looking at data from the past few years can reveal trends in hate crimes, offering a clearer picture of when and where these incidents are most likely to happen.
 
 By exploring these patterns, this research contributes to a deeper understanding of hate crimes in San Francisco, helping to inform discussions about safety and social justice.
+
+## Literature Review
+
+Literature Review will be here
+
+## Notebooks
+
+### Analysis 1 Investigated Hate Crimes
+
+### Analysis 2 Incident Reports
+
+## Conclusion
+
+Conclusion will be here
+
+## Next Steps
+
+Next Steps will be here
+
+## References
+
+References will be here
