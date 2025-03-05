@@ -23,8 +23,9 @@ This project brings together both personal and academic motivations. As a Latino
 
 San Francisco is known for its diversity and inclusivity, but hate crimes still occur, affecting the safety and well-being of many communities. This project is important because it helps uncover who is most at risk and how these crimes have changed over time by:
 
-**Identifying the Most Vulnerable:** Understanding which groups are most frequently targeted can provide valuable insight into the risks they face and highlight areas where more protection and support are needed.\
-**Recognizing Patterns Over Time:** Looking at data from the past few years can reveal trends in hate crimes, offering a clearer picture of when and where these incidents are most likely to happen.
+**Identifying the most vulnerable:** Understanding which groups are most frequently targeted can provide valuable insight into the risks they face and highlight areas where more protection and support are needed.
+
+**Recognizing patterns over Time:** Looking at data from the past few years can reveal trends in hate crimes, offering a clearer picture of when and where these incidents are most likely to happen.
 
 By exploring these patterns, this research contributes to a deeper understanding of hate crimes in San Francisco, helping to inform discussions about safety and social justice.
 
@@ -74,7 +75,7 @@ While this study provides valuable insights into how race, sexual orientation, a
 
 **Ongoing monitoring of hate crime trends**
 
-This analysis covers hate crimes from 2020 to 2024, but patterns of violence can shift over time due to changes in social attitudes, political events, or policy measures. A long-term study could reveal whether certain years consistently see spikes in hate crimes or if certain communities experience worsening conditions over time. Continuous monitoring would help determine if 2021 was an anomaly or part of a larger trend, and whether efforts to address hate crimes are making a measurable impact.
+This analysis covers hate crimes from 2020 to 2024, but patterns of violence can shift over time due to changes in social attitudes, political events, or policy measures. A long-term study could reveal whether certain years consistently see spikes in hate crimes or if certain communities experience worsening conditions over time. Continuous monitoring would help determine if 2021 was an anomaly or part of a larger trend, and whether efforts to address hate crimes are making a measurable impact. After analyzing my research results, I looked into San Francisco news reports to better understand the June 2021 spike in Anti-Asian hate crimes. One key finding comes from Anguiano (2022), who reported that a single individual was allegedly responsible for half of the reported Anti-Asian incidents in San Francisco that year. According to the article, this individual vandalized 20 different stores across the city, primarily targeting Chinese-owned businesses. This raises important questions about how one person’s actions can significantly impact crime statistics and whether hate crime data should also account for repeat offenders when analyzing trends.
 
 **Investigating underreporting of hate crimes**
 
@@ -83,9 +84,6 @@ This research found that hate crimes against LGBTQ+ individuals, especially lesb
 **Exploring the connection between social/political events and hate crime surges**
 
 The sharp increase in hate crimes in 2021 suggests that external factors, such as social and political events may have played a role in the rise in violence. Future research could explore how national movements or international events influenced public sentiment and, in turn, hate crime patterns.
-
-After analyzing my research results, I looked into San Francisco news reports to better understand the June 2021 spike in Anti-Asian hate crimes. One key finding comes from Anguiano (2022), who reported that a single individual was allegedly responsible for half of the reported Anti-Asian incidents in San Francisco that year. According to the article, this individual vandalized 20 different stores across the city, primarily targeting Chinese-owned businesses. This raises important questions about how one person’s actions can significantly impact crime statistics and whether hate crime data should also account for repeat offenders when analyzing trends.
-
 
 **Comparing hate crime locations to general assault hotspots**
 
