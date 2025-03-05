@@ -62,6 +62,8 @@ Hate crimes targeting LGBTQ+ individuals occurred every year, reinforcing that S
 
 Location plays a key role in determining risk levels. The data revealed that public streets and transit areas are the most common locations for both Anti-Asian and Anti-Gay (Male) hate crimes. This suggests that individuals in these groups are most vulnerable when navigating public spaces, where they are more exposed to strangers.
 
+The data shows that hate crimes are not evenly spread throughout the year. Certain months stand out with noticeable spikes. This suggests that external factors, may influence when these crimes happen. June 2021 had the highest number of Anti-Asian hate crimes, while July saw the most Anti-Gay (Male) hate crimes, pointing to mid-year as a particularly high-risk period for these communities. Understanding why these spikes occur can help uncover the deeper reasons behind hate crime trends and highlight periods where marginalized groups may face greater danger.
+
 Based on assault reports data, I identified 24th St & Osage Aly as the most dangerous intersection for assaults, along with several high-crime areas such as Mission Street, Market Street, and the Tenderloin. If hate crimes are concentrated in these same high-assault areas, it could suggest that certain communities are at risk simply because they live or travel through areas where violence is more common. However, if hate crimes occur in different locations, it would indicate that these crimes are not just random acts of violence but targeted attacks against specific groups in certain spaces.
 
 Based on this research, the highest-risk group for hate crimes in San Francisco is Asian individuals and gay men, particularly in public spaces like streets, transit hubs, and nightlife areas. The intersection of identity (race, sexual orientation) and location determines who is most at risk and where they are most likely to experience hate crimes.
@@ -80,7 +82,10 @@ This research found that hate crimes against LGBTQ+ individuals, especially lesb
 
 **Exploring the connection between social/political events and hate crime surges**
 
-The 2021 peak in hate crimes suggests that external social or political factors may have influenced the rise in violence. Future research could examine media coverage, political rhetoric, policy changes, protests, or national/international events to see how they correlate with increases in hate crimes. 
+The sharp increase in hate crimes in 2021 suggests that external factors, such as social and political events may have played a role in the rise in violence. Future research could explore how national movements or international events influenced public sentiment and, in turn, hate crime patterns.
+
+After analyzing my research results, I looked into San Francisco news reports to better understand the June 2021 spike in Anti-Asian hate crimes. One key finding comes from Anguiano (2022), who reported that a single individual was allegedly responsible for half of the reported Anti-Asian incidents in San Francisco that year. According to the article, this individual vandalized 20 different stores across the city, primarily targeting Chinese-owned businesses. This raises important questions about how one person’s actions can significantly impact crime statistics and whether hate crime data should also account for repeat offenders when analyzing trends.
+
 
 **Comparing hate crime locations to general assault hotspots**
 
@@ -114,8 +119,6 @@ Patel, Tina G., et al. “Hate Crime.” Shades of Deviance, 2nd ed., vol. 1, Ro
 Malcom, Zachary T., et al. “LGBTQA+ Hate Crime Victimization.” Queer Victimology, 1st ed., Routledge, 2024, pp. 26–36, https://doi.org/10.4324/9781003400981-4.
 
 **News Articles**
-
-Chan, S., & Martin, A. (2022, January 27). Anti-Asian hate crimes increased 567% in San Francisco as lawsuit accuses DA of not doing enough. CNN. https://www.cnn.com/2022/01/27/us/anti-asian-hate-crimes-san-francisco-lawsuit/index.htm
 
 Anguiano, D. (2022, January 26). SF police data shows 567% increase in reports of hate crimes against Asian Americans. The Guardian. https://www.theguardian.com/us-news/2022/jan/26/san-francisco-increase-hate-crime-anti-asian-aapi
 
